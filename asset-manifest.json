@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/covidata/static/css/main.21b960a8.css",
+    "main.js": "/covidata/static/js/main.e2a38d8f.js",
+    "index.html": "/covidata/index.html",
+    "main.21b960a8.css.map": "/covidata/static/css/main.21b960a8.css.map",
+    "main.e2a38d8f.js.map": "/covidata/static/js/main.e2a38d8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b960a8.css",
+    "static/js/main.e2a38d8f.js"
+  ]
+}
